@@ -1,0 +1,33 @@
+IGOR MELO - TI | PORTFÓLIO PROFISSIONAL
+
+CONTEÚDO
+Este site é um portfólio geral da marca Igor Melo - TI. Ele reúne:
+- Perfil e repositórios públicos do GitHub;
+- Projetos/estudos de código;
+- Um case de experiência com plataformas digitais do CORE-PB;
+- Quatro banners de comunicação;
+- Um Reel editado em vídeo;
+- Links para explorar os projetos originais.
+
+COMO ABRIR LOCALMENTE
+1. Extraia o arquivo ZIP para uma pasta no computador.
+2. Abra a pasta e dê dois cliques em index.html.
+3. O site será aberto no navegador. Mantenha a pasta assets junto do HTML para que imagens, ícone e vídeo funcionem.
+
+ARQUIVOS
+- index.html: conteúdo e estrutura do site.
+- styles.css: identidade visual, layout e responsividade.
+- script.js: menu mobile e ampliação da galeria de banners.
+- assets/: banners, capa e vídeo Reel, além do ícone do site.
+
+PERSONALIZAÇÃO RECOMENDADA ANTES DE PUBLICAR
+- Adicione um e-mail profissional, LinkedIn ou outro meio de contato na seção final.
+- Revise periodicamente as descrições e os links dos repositórios do GitHub.
+- Caso queira, adicione projetos novos conforme forem concluídos.
+- As imagens dos banners e o vídeo foram incluídos como exemplos de trabalhos de comunicação digital.
+
+PUBLICAÇÃO
+Para publicar, envie a pasta inteira para uma hospedagem de sites estáticos (por exemplo, GitHub Pages, Netlify ou Vercel). O arquivo index.html deve permanecer na raiz da pasta publicada. Confira se a pasta assets também foi enviada.
+
+OBSERVAÇÃO
+O site usa fontes do Google Fonts quando há conexão com a internet; se não houver, usa fontes disponíveis no sistema. Os links externos abrem em uma nova aba.
